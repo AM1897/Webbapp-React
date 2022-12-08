@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background: linear-gradient(to right, rgba(222, 184, 135,1) 0%, rgba(245, 222, 179, 1)100%);
+}
+
+@font-face {
+  font-family: 'Oleo Script bold';
+  src: local('Oleo Script bold'),
+  url('./fonts/OleoScript-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Oleo Script Regular';
+  src: local('Oleo Script Regular'),
+  url('./fonts/OleoScript-Regular.ttf') format('truetype');
+}
+
+ul{
+  font-family: "Book Antiqua", sans-serif;
+}
+
+button, h3 {
+  font-family: "Book Antiqua", sans-serif;
+  font-size: 100%;
+}
+
+h2 {
+  font-family: "Book Antiqua", sans-serif;
+  font-size: 100%;
+}
+
+h1{
+  font-family: "Cooper Black", sans-serif;
+  color: coral;
+}
+
+p {
+  font-family: Quicksand, sans-serif;
+}

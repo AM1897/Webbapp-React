@@ -1,0 +1,10 @@
+.section{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.input {
+    width: 350px;
+    padding: 10px;
+    border-radius: 10px;
+}
